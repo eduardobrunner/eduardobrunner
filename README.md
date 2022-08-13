@@ -1,5 +1,5 @@
 ## Hi all 👋
-I´m an *electronic engineer* with experience in IoT applications and embedded systems. Yet my path **has just started**, I´m passionate with the **IT** world and I'm training to work on this field thet **I love**!!!
+I´m an *electronic engineer* with experience in IoT applications and embedded systems. Yet my path **has just started**, I'm really into **IT** world and I'm training to work on this field thet **I love**!!!
 
 ## Skills ⚡⚡
 * Python
