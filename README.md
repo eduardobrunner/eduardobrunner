@@ -1,13 +1,19 @@
 ## Hi all 👋
 I´m *electronic enginner* with experience in IoT applications and enbeded systems. Yet my path **it just started**. I´m apassionate with the **IT** world and I am training to work on this thah **I love**!!!
 
-## some of my skills are ⚡⚡
+## Skills ⚡⚡
 * Python
 * C/C++
+* Java
+* MySQL
+* MongoDB
+* RTOS
+* Git Bash
+
+## Frameworks
 * Django
-* SQL database
-* Git
-* Bash
+* FastAPI
+
 <!--
 **eduardobrunner/eduardobrunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
